@@ -1,1 +1,17 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: aaa\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 
+msgctxt "test project"
+msgid "greeting"
+msgid_plural "greetings"
+msgstr[0] "Hello sir, what can I do to help you today?"
+msgstr[1] "Hey guys, What's up y'all"
 
